@@ -156,12 +156,13 @@
       "slug": "payment-schedule",
       "title": "Как читать график платежей до подписания договора",
       "topic": "Условия договора",
-      "status": "draft",
-      "externalStatus": "not-published",
+      "status": "published",
+      "externalStatus": "published-on-business-key",
       "sourcePath": "content/articles/014-payment-schedule/article.md",
       "metaPath": "content/articles/014-payment-schedule/meta.json",
       "coverPath": "content/articles/014-payment-schedule/cover-v1.png",
-      "targetUrl": "https://007fin.ru/journal/payment-schedule/"
+      "targetUrl": "https://007fin.ru/journal/payment-schedule/",
+      "externalUrl": "https://www.business-key.com/object/331148/"
     }
   ]
 }
