@@ -8,5 +8,9 @@
   "status": "draft",
   "targetUrl": "https://007fin.ru/journal/first-loan-promo/",
   "externalPublication": {"platform": "Business Key", "status": "not-published", "url": null},
-  "sources": []
+  "sources": [
+    "https://www.cbr.ru/explan/353-fz/",
+    "https://www.cbr.ru/press/event/?id=28536",
+    "https://www.cbr.ru/Reception/TopicalMessage/Page/5093"
+  ]
 }

@@ -5,8 +5,14 @@
   "description": "Как сравнивать предложения по ПСК, графику платежей и итоговой сумме возврата.",
   "topic": "Стоимость кредита",
   "author": "Андрей Шелест",
-  "status": "draft",
+  "status": "published",
   "targetUrl": "https://007fin.ru/journal/psc-before-signature/",
-  "externalPublication": {"platform": "Business Key", "status": "not-published", "url": null},
+  "externalPublication": {
+    "platform": "Banki Financy через Business Key",
+    "status": "published",
+    "url": "https://banki-financy.ru/polnaya-stoimost-kredita-gde-ee-iskat-do-podpisaniya-dog-452i3/"
+  },
+  "businessKeyObjectId": 331154,
+  "publishedAt": "2026-09-15",
   "sources": ["https://www.cbr.ru/faq/bank_s/kredity/"]
 }
