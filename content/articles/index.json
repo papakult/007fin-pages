@@ -163,6 +163,18 @@
       "coverPath": "content/articles/014-payment-schedule/cover-v1.png",
       "targetUrl": "https://007fin.ru/journal/payment-schedule/",
       "externalUrl": "https://www.business-key.com/object/331148/"
+    },
+    {
+      "id": "015",
+      "slug": "small-emergency-fund",
+      "title": "Финансовая подушка с маленького шага: как начать без жёстких правил",
+      "topic": "Личный бюджет",
+      "status": "draft",
+      "externalStatus": "not-published",
+      "sourcePath": "content/articles/015-small-emergency-fund/article.md",
+      "metaPath": "content/articles/015-small-emergency-fund/meta.json",
+      "coverPath": "content/articles/015-small-emergency-fund/cover-v1.png",
+      "targetUrl": "https://007fin.ru/journal/small-emergency-fund/"
     }
   ]
 }
