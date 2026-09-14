@@ -2,12 +2,18 @@
   "id": "007",
   "slug": "verify-financial-company",
   "title": "Как проверить финансовую организацию до отправки заявки",
-  "description": "Короткая проверка организации и сайта до передачи каких-либо данных.",
+  "description": "Короткая проверка организации, сайта и реквизитов до передачи документов или банковских данных.",
   "topic": "Финансовая безопасность",
   "author": "Андрей Шелест",
-  "status": "draft",
+  "status": "published",
   "targetUrl": "https://007fin.ru/journal/verify-financial-company/",
-  "externalPublication": {"platform": "Business Key", "status": "not-published", "url": null},
+  "externalPublication": {
+    "platform": "Experts Say через Business Key",
+    "status": "published",
+    "url": "https://www.experts-say.ru/2026/09/kak-proverit-finansovuyu-organizaciyu-do-otpravki-za-xcg/"
+  },
+  "businessKeyObjectId": 331158,
+  "publishedAt": "2026-09-15",
   "cover": "/images/journal/verify-financial-company-cover.png",
   "sources": [
     "https://www.cbr.ru/finorg/",
