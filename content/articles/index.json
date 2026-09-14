@@ -112,6 +112,41 @@
       "sourcePath": "content/articles/010-extra-services/article.md",
       "metaPath": "content/articles/010-extra-services/meta.json",
       "targetUrl": "https://007fin.ru/journal/extra-services/"
+    },
+    {
+      "id": "011",
+      "slug": "compare-equal-terms",
+      "title": "Как сравнить два кредитных предложения на одинаковую сумму",
+      "topic": "Сравнение условий",
+      "status": "published",
+      "externalStatus": "published-on-business-key",
+      "sourcePath": "content/articles/011-compare-equal-terms/article.md",
+      "metaPath": "content/articles/011-compare-equal-terms/meta.json",
+      "coverPath": "content/articles/011-compare-equal-terms/cover-v1.png",
+      "targetUrl": "https://007fin.ru/journal/compare-equal-terms/",
+      "externalUrl": "https://www.business-key.com/object/331144/"
+    },
+    {
+      "id": "012",
+      "slug": "after-application-refusal",
+      "title": "Что делать после отказа в заявке, а чего лучше не делать",
+      "topic": "Финансовая безопасность",
+      "status": "draft",
+      "externalStatus": "not-published",
+      "sourcePath": "content/articles/012-after-application-refusal/article.md",
+      "metaPath": "content/articles/012-after-application-refusal/meta.json",
+      "targetUrl": "https://007fin.ru/journal/after-application-refusal/"
+    },
+    {
+      "id": "013",
+      "slug": "amount-received-vs-contract",
+      "title": "Почему сумма на руки может отличаться от суммы в договоре",
+      "topic": "Условия договора",
+      "status": "draft",
+      "externalStatus": "not-published",
+      "sourcePath": "content/articles/013-amount-received-vs-contract/article.md",
+      "metaPath": "content/articles/013-amount-received-vs-contract/meta.json",
+      "targetUrl": "https://007fin.ru/journal/amount-received-vs-contract/"
     }
   ]
 }
