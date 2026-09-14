@@ -8,5 +8,11 @@
   "status": "draft",
   "targetUrl": "https://007fin.ru/journal/car-collateral-check/",
   "externalPublication": {"platform": "Business Key", "status": "not-published", "url": null},
-  "sources": []
+  "cover": "/images/journal/car-collateral-check-cover.png",
+  "sources": [
+    "https://www.cbr.ru/protection_rights/behavioral_surveillance/ko_cases/case_35/",
+    "https://www.cbr.ru/inside/warning-list/",
+    "https://www.cbr.ru/faq/bank_s/kredity/",
+    "https://www.reestr-zalogov.ru/state/"
+  ]
 }
