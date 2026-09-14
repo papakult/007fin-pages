@@ -5,9 +5,11 @@
   "description": "Вопросы о залоге, использовании автомобиля и рисках при нарушении графика.",
   "topic": "Залог автомобиля",
   "author": "Андрей Шелест",
-  "status": "draft",
+  "status": "external-pending",
   "targetUrl": "https://007fin.ru/journal/car-collateral-check/",
-  "externalPublication": {"platform": "Business Key", "status": "not-published", "url": null},
+  "externalPublication": {"platform": "Finance Inform через Business Key", "status": "pending", "url": null},
+  "businessKeyObjectId": 331157,
+  "publishedAt": "2026-09-15",
   "cover": "/images/journal/car-collateral-check-cover.png",
   "sources": [
     "https://www.cbr.ru/protection_rights/behavioral_surveillance/ko_cases/case_35/",
