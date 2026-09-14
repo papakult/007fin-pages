@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "author": "Андрей Шелест",
+  "articles": [
+    {
+      "id": "001",
+      "slug": "mfo-or-bank",
+      "title": "Почему быстрое одобрение еще не означает удачный заем",
+      "topic": "Сравнение банковского кредита и займа в МФО",
+      "status": "review",
+      "externalStatus": "published-on-business-key",
+      "sourcePath": "content/articles/001-mfo-or-bank/article.md",
+      "metaPath": "content/articles/001-mfo-or-bank/meta.json",
+      "coverPath": "content/articles/001-mfo-or-bank/cover.png",
+      "targetUrl": "https://007fin.ru/journal/mfo-or-bank/"
+    },
+    {
+      "id": "002",
+      "slug": "unplanned-expense",
+      "title": "Непредвиденный расход: как решить, нужен ли заем сегодня",
+      "topic": "Непредвиденные расходы",
+      "status": "draft",
+      "externalStatus": "not-published",
+      "sourcePath": "content/articles/002-unplanned-expense/article.md",
+      "metaPath": "content/articles/002-unplanned-expense/meta.json",
+      "targetUrl": "https://007fin.ru/journal/unplanned-expense/"
+    },
+    {
+      "id": "003",
+      "slug": "psc-before-signature",
+      "title": "Полная стоимость кредита: где ее искать до подписания договора",
+      "topic": "Стоимость кредита",
+      "status": "draft",
+      "externalStatus": "not-published",
+      "sourcePath": "content/articles/003-psc-before-signature/article.md",
+      "metaPath": "content/articles/003-psc-before-signature/meta.json",
+      "targetUrl": "https://007fin.ru/journal/psc-before-signature/"
+    },
+    {
+      "id": "004",
+      "slug": "first-loan-promo",
+      "title": "Первый заем под ноль процентов: что проверить в условиях акции",
+      "topic": "Акционные условия",
+      "status": "draft",
+      "externalStatus": "not-published",
+      "sourcePath": "content/articles/004-first-loan-promo/article.md",
+      "metaPath": "content/articles/004-first-loan-promo/meta.json",
+      "targetUrl": "https://007fin.ru/journal/first-loan-promo/"
+    },
+    {
+      "id": "005",
+      "slug": "payment-date-gap",
+      "title": "Когда дата платежа раньше зарплаты: проблема в календаре, а не в скорости",
+      "topic": "Планирование платежей",
+      "status": "draft",
+      "externalStatus": "not-published",
+      "sourcePath": "content/articles/005-payment-date-gap/article.md",
+      "metaPath": "content/articles/005-payment-date-gap/meta.json",
+      "targetUrl": "https://007fin.ru/journal/payment-date-gap/"
+    },
+    {
+      "id": "006",
+      "slug": "car-collateral-check",
+      "title": "Займ под залог автомобиля: что уточнить до согласия",
+      "topic": "Залог автомобиля",
+      "status": "draft",
+      "externalStatus": "not-published",
+      "sourcePath": "content/articles/006-car-collateral-check/article.md",
+      "metaPath": "content/articles/006-car-collateral-check/meta.json",
+      "targetUrl": "https://007fin.ru/journal/car-collateral-check/"
+    },
+    {
+      "id": "007",
+      "slug": "verify-financial-company",
+      "title": "Как проверить финансовую организацию до отправки заявки",
+      "topic": "Финансовая безопасность",
+      "status": "draft",
+      "externalStatus": "not-published",
+      "sourcePath": "content/articles/007-verify-financial-company/article.md",
+      "metaPath": "content/articles/007-verify-financial-company/meta.json",
+      "targetUrl": "https://007fin.ru/journal/verify-financial-company/"
+    },
+    {
+      "id": "008",
+      "slug": "extension-or-plan",
+      "title": "Продлить заем или искать новый: с чего начать разбор ситуации",
+      "topic": "Действующий заем",
+      "status": "draft",
+      "externalStatus": "not-published",
+      "sourcePath": "content/articles/008-extension-or-plan/article.md",
+      "metaPath": "content/articles/008-extension-or-plan/meta.json",
+      "targetUrl": "https://007fin.ru/journal/extension-or-plan/"
+    },
+    {
+      "id": "009",
+      "slug": "early-repayment",
+      "title": "Досрочное погашение: какие условия уточнить до оплаты",
+      "topic": "Досрочное погашение",
+      "status": "draft",
+      "externalStatus": "not-published",
+      "sourcePath": "content/articles/009-early-repayment/article.md",
+      "metaPath": "content/articles/009-early-repayment/meta.json",
+      "targetUrl": "https://007fin.ru/journal/early-repayment/"
+    },
+    {
+      "id": "010",
+      "slug": "extra-services",
+      "title": "Дополнительные услуги в договоре: как не согласиться автоматически",
+      "topic": "Условия договора",
+      "status": "draft",
+      "externalStatus": "not-published",
+      "sourcePath": "content/articles/010-extra-services/article.md",
+      "metaPath": "content/articles/010-extra-services/meta.json",
+      "targetUrl": "https://007fin.ru/journal/extra-services/"
+    }
+  ]
+}

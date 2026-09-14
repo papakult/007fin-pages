@@ -1,0 +1,12 @@
+{
+  "id": "005",
+  "slug": "payment-date-gap",
+  "title": "Когда дата платежа раньше зарплаты: проблема в календаре, а не в скорости",
+  "description": "Как проверить, выдержит ли бюджет дату будущего платежа.",
+  "topic": "Планирование платежей",
+  "author": "Андрей Шелест",
+  "status": "draft",
+  "targetUrl": "https://007fin.ru/journal/payment-date-gap/",
+  "externalPublication": {"platform": "Business Key", "status": "not-published", "url": null},
+  "sources": []
+}

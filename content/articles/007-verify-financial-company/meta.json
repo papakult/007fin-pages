@@ -1,0 +1,12 @@
+{
+  "id": "007",
+  "slug": "verify-financial-company",
+  "title": "Как проверить финансовую организацию до отправки заявки",
+  "description": "Короткая проверка организации и сайта до передачи каких-либо данных.",
+  "topic": "Финансовая безопасность",
+  "author": "Андрей Шелест",
+  "status": "draft",
+  "targetUrl": "https://007fin.ru/journal/verify-financial-company/",
+  "externalPublication": {"platform": "Business Key", "status": "not-published", "url": null},
+  "sources": ["https://www.cbr.ru/finorg/"]
+}
