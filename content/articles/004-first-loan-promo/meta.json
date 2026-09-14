@@ -5,9 +5,16 @@
   "description": "Какие вопросы стоит задать до согласия на акционное предложение.",
   "topic": "Акционные условия",
   "author": "Андрей Шелест",
-  "status": "draft",
+  "status": "external-pending",
   "targetUrl": "https://007fin.ru/journal/first-loan-promo/",
-  "externalPublication": {"platform": "Business Key", "status": "not-published", "url": null},
+  "externalPublication": {
+    "platform": "Smart Choices через Business Key",
+    "status": "pending",
+    "url": null
+  },
+  "businessKeyObjectId": 331155,
+  "publishedAt": "2026-09-15",
+  "cover": "/images/journal/first-loan-promo-cover.png",
   "sources": [
     "https://www.cbr.ru/explan/353-fz/",
     "https://www.cbr.ru/press/event/?id=28536",
