@@ -5,9 +5,13 @@
   "description": "Вопросы о залоге, использовании автомобиля и рисках при нарушении графика.",
   "topic": "Залог автомобиля",
   "author": "Андрей Шелест",
-  "status": "external-pending",
+  "status": "published",
   "targetUrl": "https://007fin.ru/journal/car-collateral-check/",
-  "externalPublication": {"platform": "Finance Inform через Business Key", "status": "pending", "url": null},
+  "externalPublication": {
+    "platform": "Finance Inform через Business Key",
+    "status": "published",
+    "url": "https://finance-inform.ru/important/zajjm-pod-zalog-avtomobilya-chto-utochnit-do-soglasiya-c5/"
+  },
   "businessKeyObjectId": 331157,
   "publishedAt": "2026-09-15",
   "cover": "/images/journal/car-collateral-check-cover.png",
