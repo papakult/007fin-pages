@@ -144,11 +144,12 @@
       "slug": "amount-received-vs-contract",
       "title": "Почему сумма на руки может отличаться от суммы в договоре",
       "topic": "Условия договора",
-      "status": "draft",
-      "externalStatus": "not-published",
+      "status": "published",
+      "externalStatus": "published-on-business-key",
       "sourcePath": "content/articles/013-amount-received-vs-contract/article.md",
       "metaPath": "content/articles/013-amount-received-vs-contract/meta.json",
-      "targetUrl": "https://007fin.ru/journal/amount-received-vs-contract/"
+      "targetUrl": "https://007fin.ru/journal/amount-received-vs-contract/",
+      "externalUrl": "https://www.business-key.com/object/331147/"
     }
   ]
 }
