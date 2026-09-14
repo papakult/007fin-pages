@@ -8,5 +8,10 @@
   "status": "draft",
   "targetUrl": "https://007fin.ru/journal/extension-or-plan/",
   "externalPublication": {"platform": "Business Key", "status": "not-published", "url": null},
-  "sources": []
+  "cover": "/images/journal/extension-or-plan-cover.png",
+  "sources": [
+    "https://www.cbr.ru/Reception/FaqSearch?Date=All&from=91954&q=%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B5+%D0%BA%D0%B0%D0%BD%D0%B8%D0%BA%D1%83%D0%BB%D1%8B",
+    "https://www.cbr.ru/faq/bank_s/kredity/",
+    "https://www.cbr.ru/faq/credit_h/"
+  ]
 }
