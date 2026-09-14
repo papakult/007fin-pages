@@ -5,12 +5,12 @@
   "description": "Какие вопросы стоит задать до согласия на акционное предложение.",
   "topic": "Акционные условия",
   "author": "Андрей Шелест",
-  "status": "external-pending",
+  "status": "published",
   "targetUrl": "https://007fin.ru/journal/first-loan-promo/",
   "externalPublication": {
     "platform": "Smart Choices через Business Key",
-    "status": "pending",
-    "url": null
+    "status": "published",
+    "url": "https://smartchoices.ru/2026-post-pervyjj-zaem-pod-nol-procentov-chto-proverit-v-usloviya-8h9r/"
   },
   "businessKeyObjectId": 331155,
   "publishedAt": "2026-09-15",

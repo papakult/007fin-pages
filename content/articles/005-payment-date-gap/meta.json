@@ -8,5 +8,9 @@
   "status": "draft",
   "targetUrl": "https://007fin.ru/journal/payment-date-gap/",
   "externalPublication": {"platform": "Business Key", "status": "not-published", "url": null},
-  "sources": []
+  "sources": [
+    "https://cbr.ru/explan/szpp_moment/",
+    "https://cbr.ru/protection_rights/behavioral_surveillance/mfo_cases/case_13/",
+    "https://www.cbr.ru/faq/bank_s/kredity/"
+  ]
 }
