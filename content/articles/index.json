@@ -131,11 +131,13 @@
       "slug": "after-application-refusal",
       "title": "Что делать после отказа в заявке, а чего лучше не делать",
       "topic": "Финансовая безопасность",
-      "status": "draft",
-      "externalStatus": "not-published",
+      "status": "published",
+      "externalStatus": "published-on-business-key",
       "sourcePath": "content/articles/012-after-application-refusal/article.md",
       "metaPath": "content/articles/012-after-application-refusal/meta.json",
-      "targetUrl": "https://007fin.ru/journal/after-application-refusal/"
+      "coverPath": "content/articles/012-after-application-refusal/cover-v1.png",
+      "targetUrl": "https://007fin.ru/journal/after-application-refusal/",
+      "externalUrl": "https://www.business-key.com/object/331146/"
     },
     {
       "id": "013",
