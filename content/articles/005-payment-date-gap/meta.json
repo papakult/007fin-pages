@@ -5,13 +5,13 @@
   "description": "Как проверить, выдержит ли бюджет дату будущего платежа.",
   "topic": "Планирование платежей",
   "author": "Андрей Шелест",
-  "status": "external-pending",
+  "status": "published",
   "targetUrl": "https://007fin.ru/journal/payment-date-gap/",
   "cover": "/images/journal/payment-date-gap-cover.png",
   "externalPublication": {
     "platform": "Save Worth через Business Key",
-    "status": "pending",
-    "url": null
+    "status": "published",
+    "url": "https://save-worth.ru/kogda-data-platezha-ranshe-zarplaty-problema-v-kalendar-8141/"
   },
   "businessKeyObjectId": 331156,
   "publishedAt": "2026-09-15",
