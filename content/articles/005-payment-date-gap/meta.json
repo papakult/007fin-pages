@@ -5,10 +5,16 @@
   "description": "Как проверить, выдержит ли бюджет дату будущего платежа.",
   "topic": "Планирование платежей",
   "author": "Андрей Шелест",
-  "status": "draft",
+  "status": "external-pending",
   "targetUrl": "https://007fin.ru/journal/payment-date-gap/",
   "cover": "/images/journal/payment-date-gap-cover.png",
-  "externalPublication": {"platform": "Business Key", "status": "not-published", "url": null},
+  "externalPublication": {
+    "platform": "Save Worth через Business Key",
+    "status": "pending",
+    "url": null
+  },
+  "businessKeyObjectId": 331156,
+  "publishedAt": "2026-09-15",
   "sources": [
     "https://cbr.ru/explan/szpp_moment/",
     "https://cbr.ru/protection_rights/behavioral_surveillance/mfo_cases/case_13/",
