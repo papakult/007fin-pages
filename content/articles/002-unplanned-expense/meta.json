@@ -1,12 +1,18 @@
 {
   "id": "002",
   "slug": "unplanned-expense",
-  "title": "Непредвиденный расход: как решить, нужен ли заем сегодня",
-  "description": "Три вопроса, которые помогают не принять финансовое решение на эмоциях.",
+  "title": "Непредвиденные расходы: как не превратить один сложный месяц в цепочку долгов",
+  "description": "Практичный способ оценить внезапную трату, сохранить спокойствие и выбрать решение без поспешных заявок.",
   "topic": "Непредвиденные расходы",
   "author": "Андрей Шелест",
-  "status": "draft",
+  "status": "published",
   "targetUrl": "https://007fin.ru/journal/unplanned-expense/",
-  "externalPublication": {"platform": "Business Key", "status": "not-published", "url": null},
+  "externalPublication": {
+    "platform": "Finance Reality через Business Key",
+    "status": "published",
+    "url": "https://financereality.ru/2026/09/15/publikaciya-nepredvidennye-raskhody-kak-ne-prevratit-odin-sl-vxv/"
+  },
+  "businessKeyObjectId": 331153,
+  "publishedAt": "2026-09-15",
   "sources": ["https://www.cbr.ru/finorg/"]
 }
