@@ -8,5 +8,10 @@
   "status": "draft",
   "targetUrl": "https://007fin.ru/journal/verify-financial-company/",
   "externalPublication": {"platform": "Business Key", "status": "not-published", "url": null},
-  "sources": ["https://www.cbr.ru/finorg/"]
+  "cover": "/images/journal/verify-financial-company-cover.png",
+  "sources": [
+    "https://www.cbr.ru/finorg/",
+    "https://www.cbr.ru/inside/warning-list/",
+    "https://www.cbr.ru/anonyminform/"
+  ]
 }
