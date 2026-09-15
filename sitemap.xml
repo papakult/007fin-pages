@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://007fin.ru/</loc></url>
-  <url><loc>https://007fin.ru/results</loc></url>
-  <url><loc>https://007fin.ru/legal/privacy</loc></url>
-  <url><loc>https://007fin.ru/legal/terms</loc></url>
-  <url><loc>https://007fin.ru/legal/advertising</loc></url>
-  <url><loc>https://007fin.ru/contacts</loc></url>
+  <url><loc>https://007fin.ru/contacts/</loc></url>
   <url><loc>https://007fin.ru/journal/</loc></url>
-  <url><loc>https://007fin.ru/journal/mfo-or-bank/</loc></url>
-  <url><loc>https://007fin.ru/journal/loan-cost/</loc></url>
-  <url><loc>https://007fin.ru/journal/before-borrowing/</loc></url>
-  <url><loc>https://007fin.ru/journal/car-secured-loan/</loc></url>
-  <url><loc>https://007fin.ru/journal/unplanned-expense/</loc></url>
-  <url><loc>https://007fin.ru/journal/psc-before-signature/</loc></url>
-  <url><loc>https://007fin.ru/journal/first-loan-promo/</loc></url>
-  <url><loc>https://007fin.ru/journal/payment-date-gap/</loc></url>
-  <url><loc>https://007fin.ru/journal/car-collateral-check/</loc></url>
-  <url><loc>https://007fin.ru/journal/verify-financial-company/</loc></url>
-  <url><loc>https://007fin.ru/journal/extension-or-plan/</loc></url>
-  <url><loc>https://007fin.ru/journal/early-repayment/</loc></url>
-  <url><loc>https://007fin.ru/journal/extra-services/</loc></url>
-  <url><loc>https://007fin.ru/journal/compare-equal-terms/</loc></url>
   <url><loc>https://007fin.ru/journal/after-application-refusal/</loc></url>
   <url><loc>https://007fin.ru/journal/amount-received-vs-contract/</loc></url>
+  <url><loc>https://007fin.ru/journal/before-borrowing/</loc></url>
+  <url><loc>https://007fin.ru/journal/car-collateral-check/</loc></url>
+  <url><loc>https://007fin.ru/journal/car-secured-loan/</loc></url>
+  <url><loc>https://007fin.ru/journal/compare-equal-terms/</loc></url>
+  <url><loc>https://007fin.ru/journal/early-repayment/</loc></url>
+  <url><loc>https://007fin.ru/journal/extension-or-plan/</loc></url>
+  <url><loc>https://007fin.ru/journal/extra-services/</loc></url>
+  <url><loc>https://007fin.ru/journal/first-loan-promo/</loc></url>
+  <url><loc>https://007fin.ru/journal/loan-cost/</loc></url>
+  <url><loc>https://007fin.ru/journal/mfo-or-bank/</loc></url>
+  <url><loc>https://007fin.ru/journal/payment-date-gap/</loc></url>
+  <url><loc>https://007fin.ru/journal/payment-schedule/</loc></url>
+  <url><loc>https://007fin.ru/journal/psc-before-signature/</loc></url>
+  <url><loc>https://007fin.ru/journal/small-emergency-fund/</loc></url>
+  <url><loc>https://007fin.ru/journal/unplanned-expense/</loc></url>
+  <url><loc>https://007fin.ru/journal/verify-financial-company/</loc></url>
+  <url><loc>https://007fin.ru/legal/advertising/</loc></url>
+  <url><loc>https://007fin.ru/legal/privacy/</loc></url>
+  <url><loc>https://007fin.ru/legal/terms/</loc></url>
+  <url><loc>https://007fin.ru/products/auto-loans/</loc></url>
+  <url><loc>https://007fin.ru/products/car-secured/</loc></url>
+  <url><loc>https://007fin.ru/products/loans/</loc></url>
 </urlset>
