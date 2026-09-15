@@ -1,12 +1,18 @@
 {
   "id": "009",
   "slug": "early-repayment",
-  "title": "Досрочное погашение: какие условия уточнить до оплаты",
-  "description": "Что проверить перед переводом денег для досрочного закрытия обязательства.",
+  "title": "Как закрыть краткосрочный займ раньше срока и не запутаться в расчетах",
+  "description": "Что проверить до досрочного погашения, какие документы сохранить и почему сумма к оплате может меняться.",
   "topic": "Досрочное погашение",
   "author": "Андрей Шелест",
   "status": "draft",
   "targetUrl": "https://007fin.ru/journal/early-repayment/",
-  "externalPublication": {"platform": "Business Key", "status": "not-published", "url": null},
-  "sources": []
+  "externalPublication": {"platform": "Business Key", "status": "published", "url": "https://www.business-key.com/object/331150/"},
+  "businessKeyObjectId": 331150,
+  "cover": "/images/journal/early-repayment-cover.png",
+  "sources": [
+    "https://www.cbr.ru/protection_rights/behavioral_surveillance/ko_cases/ko_cases_28/",
+    "https://www.cbr.ru/faq/bank_s/kredity/",
+    "https://www.consultant.ru/document/cons_doc_LAW_155986/10dd842d4f87b9fe0ae3a8de9f32e91ae070817d/"
+  ]
 }
