@@ -2,5 +2,7 @@ User-agent: *
 Allow: /
 Disallow: /admin
 Disallow: /api/
+Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term&yclid&gclid&from&_openstat /
+Clean-param: amount&termDays&product /results/
 
 Sitemap: https://007fin.ru/sitemap.xml
