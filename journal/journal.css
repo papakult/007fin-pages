@@ -524,7 +524,7 @@ button { color: inherit; }
   .portal-main,
   .article-main { padding-top: 2.8rem; }
   .journal-intro { padding-bottom: 2.8rem; }
-  .journal-intro h1 { font-size: clamp(3rem, 17vw, 5rem); }
+  .journal-intro h1 { font-size: clamp(2.4rem, 12vw, 3.6rem); }
   .editorial-note { margin-top: 0.5rem; }
   .search-panel { margin-bottom: 2.5rem; padding: 0.75rem; }
   .filters { flex-wrap: nowrap; margin-inline: -0.75rem; padding: 0.2rem 0.75rem; overflow-x: auto; }
@@ -535,7 +535,9 @@ button { color: inherit; }
   .article-card:nth-child(5) { grid-column: 1 / -1; min-height: 310px; }
   .article-card h3 { font-size: 1.8rem; }
   .portal-footer { grid-template-columns: 1fr; gap: 1rem; }
-  .article-head h1 { font-size: clamp(2.65rem, 14vw, 4.5rem); }
+  .article-head h1 { font-size: clamp(1.9rem, 8.6vw, 2.7rem); line-height: 1.05; letter-spacing: -0.035em; }
+  .article-head, .article-head > * { min-width: 0; }
+  .article-head h1, .article-kicker { overflow-wrap: anywhere; }
   .article-body { font-size: 1rem; }
 }
 
@@ -560,7 +562,7 @@ button { color: inherit; }
 
 body {
   color: var(--ink);
-  background: linear-gradient(rgba(244, 241, 234, 0.84), rgba(244, 241, 234, 0.91)), url('/images/money-background-v2.jpg') 72% center / cover fixed no-repeat;
+  background: linear-gradient(rgba(244, 241, 234, 0.84), rgba(244, 241, 234, 0.91)), url('/images/money-background-v3.webp') 72% center / cover fixed no-repeat;
 }
 
 body::before {
@@ -627,5 +629,11 @@ body::before {
   .portal-header { align-items: center; flex-direction: row; }
   .portal-nav { flex-wrap: nowrap; }
   .portal-nav a:nth-child(3) { display: none; }
-  .portal-nav a { min-height: 37px; padding: 0.55rem 0.65rem; font-size: 0.66rem; }
+  .portal-nav a, .portal-footer a, .portal-header .brand { min-height: 44px; }
+  .portal-footer a, .portal-header .brand { display: inline-flex; align-items: center; }
+  .portal-nav a { min-height: 44px; padding: 0.55rem 0.7rem; font-size: 0.72rem; }
+}
+@media (max-width: 360px) {
+  .portal-nav { gap: 0.3rem; }
+  .portal-nav a { padding: 0.5rem 0.5rem; font-size: 0.66rem; }
 }
