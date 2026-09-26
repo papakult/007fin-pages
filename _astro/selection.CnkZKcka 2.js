@@ -1,1 +1,0 @@
-function e(e){if(!e?.trim())return;let t=Number(e);return Number.isSafeInteger(t)&&t>0?t:void 0}function t(e,t,n){return e>=(n.minAmount??0)&&e<=(n.maxAmount??1/0)&&t>=(n.minTerm??0)&&t<=(n.maxTerm??1/0)}export{e as n,t};
