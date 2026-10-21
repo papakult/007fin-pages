@@ -1,5 +1,11 @@
 (function () {
   'use strict';
+  // Collection is paused while the initial operator notification is prepared.
+  var collectionPaused = true;
+  if (collectionPaused) {
+    window.siteAnalyticsConsent = { paused: true };
+    return;
+  }
   var config = document.currentScript;
   var id = Number(config && config.getAttribute('data-counter'));
   var policy = config && config.getAttribute('data-policy');
